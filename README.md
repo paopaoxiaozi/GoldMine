@@ -1,2 +1,1 @@
 # GoldMine
-#marster readme
